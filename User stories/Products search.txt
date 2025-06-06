@@ -1,0 +1,9 @@
+
+As a user I want to search for products using keywords . So that, I can find suitable products.
+
+
+Acceptence criteria:
+
+	* The user can search by writing keywords or partial keywords.
+	* The system must suggest products during entring search keywords.
+	* The system must show "Not found product" if the user enter invalid product name.

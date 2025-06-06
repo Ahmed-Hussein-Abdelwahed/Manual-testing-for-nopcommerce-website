@@ -1,0 +1,9 @@
+
+As a new user I want to create an account. So that, I can access the platform and use its features.
+
+Acceptence criteria:
+
+	* User Must fill the required items (First name, Last name, Email, Password).
+	* The System must validate that the user enter valid email (at least 1 character for username and valid domain).
+	* System must validate password throughout (password confirmation and passowrd must have at least 6 characters and not greater than 64 characters).
+	* After filling data and clicking on register button, a confirmation massage must be shown "Your registration completed".

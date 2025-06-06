@@ -1,0 +1,8 @@
+
+As a registered user I want to log in the system using my credentials. So that, I can access my profile.
+
+
+Acceptence criteria:
+
+	* The user must login the system using his credentails (email, password).
+	* After clicking on register button the system should be redirected to home page.

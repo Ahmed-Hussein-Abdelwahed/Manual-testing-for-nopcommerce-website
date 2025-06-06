@@ -1,0 +1,8 @@
+
+
+As a user I want to customize my products searching using sorting. So that, I can get control in products viewing.
+
+
+Acceptence criteria:
+
+	* The user must use the avilable sorting metheds ex. by A to Z.

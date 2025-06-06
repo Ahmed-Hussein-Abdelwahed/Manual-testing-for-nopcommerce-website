@@ -1,0 +1,9 @@
+As a user I want use add to cart feature. So that, I can pay for my bought products.
+
+
+Acceptence criteria:
+
+
+	* Buy new products.
+	* Update quantity demanded.
+	* Cancel orders.

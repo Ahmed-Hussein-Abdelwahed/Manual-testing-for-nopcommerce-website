@@ -1,0 +1,9 @@
+
+
+As a user I want to customize my products searching using filtering. So that, I can limit products viewing.
+
+
+Acceptence criteria:
+
+	* The user must use the avialble filters.
+	* The system must update results after applying filters. 
